@@ -11,3 +11,4 @@ Instrucciones VS Code
 7. Miltilinea: Borrar linea: Ctrl + Shift + L y luego Ctrl + Shift + K
 8. wrap(evolver): Cntrl + Shift + P >>emmet.wrap >> etiqueta
 9. Clonar lineas: Shift + alt + flecha abajo o arriba
+10. Multicursor: Cntrol + Alt + abajo o arriba.
